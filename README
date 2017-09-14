@@ -1,0 +1,15 @@
+
+export database orthanct on dir/ database postgreSQL
+
+setting Configuration.js with databases postgreSQl with :
+   username  : postgres ( sesuikan dengan username yg dibuat di postgreSQL )
+   password  : postgres ( sesuikan dengan password yg dibuat di postgreSQL )
+   database  : orthanct 
+ 
+running with log process :
+  ./Orthanc ./Configuration.js
+
+running orthanct on background :
+  nohup ./Orthanc ./Configuration.js &
+
+created by:heriipurnama

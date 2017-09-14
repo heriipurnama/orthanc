@@ -1,0 +1,187 @@
+{
+   "0008,0000" : {
+      "Name" : "GenericGroupLength",
+      "Type" : "String",
+      "Value" : "308"
+   },
+   "0008,0008" : {
+      "Name" : "ImageType",
+      "Type" : "String",
+      "Value" : "ORIGINAL\\PRIMARY\\EPICARDIAL"
+   },
+   "0008,0016" : {
+      "Name" : "SOPClassUID",
+      "Type" : "String",
+      "Value" : "1.2.840.10008.5.1.4.1.1.6.1"
+   },
+   "0008,0018" : {
+      "Name" : "SOPInstanceUID",
+      "Type" : "String",
+      "Value" : "1.2.840.1136190195280574824680000700.3.0.1.19970424140438"
+   },
+   "0008,0020" : {
+      "Name" : "StudyDate",
+      "Type" : "String",
+      "Value" : "1997.04.24"
+   },
+   "0008,0030" : {
+      "Name" : "StudyTime",
+      "Type" : "String",
+      "Value" : "14:04:38"
+   },
+   "0008,0060" : {
+      "Name" : "Modality",
+      "Type" : "String",
+      "Value" : "US"
+   },
+   "0008,0070" : {
+      "Name" : "Manufacturer",
+      "Type" : "String",
+      "Value" : "G.E. Medical Systems"
+   },
+   "0008,0080" : {
+      "Name" : "InstitutionName",
+      "Type" : "String",
+      "Value" : "GE MEDICAL SYSTEMS"
+   },
+   "0008,1010" : {
+      "Name" : "StationName",
+      "Type" : "String",
+      "Value" : "mvme87"
+   },
+   "0008,1090" : {
+      "Name" : "ManufacturerModelName",
+      "Type" : "String",
+      "Value" : "LOGIQ 700"
+   },
+   "0008,2122" : {
+      "Name" : "StageNumber",
+      "Type" : "String",
+      "Value" : "0"
+   },
+   "0008,2124" : {
+      "Name" : "NumberOfStages",
+      "Type" : "String",
+      "Value" : "1"
+   },
+   "0008,2128" : {
+      "Name" : "ViewNumber",
+      "Type" : "String",
+      "Value" : "0"
+   },
+   "0008,212a" : {
+      "Name" : "NumberOfViewsInStage",
+      "Type" : "String",
+      "Value" : "1"
+   },
+   "0010,0000" : {
+      "Name" : "GenericGroupLength",
+      "Type" : "String",
+      "Value" : "18"
+   },
+   "0010,0010" : {
+      "Name" : "PatientName",
+      "Type" : "String",
+      "Value" : "Anonymized"
+   },
+   "0018,0000" : {
+      "Name" : "GenericGroupLength",
+      "Type" : "String",
+      "Value" : "28"
+   },
+   "0018,1000" : {
+      "Name" : "DeviceSerialNumber",
+      "Type" : "String",
+      "Value" : "4131101"
+   },
+   "0018,1020" : {
+      "Name" : "SoftwareVersions",
+      "Type" : "String",
+      "Value" : "R6.1"
+   },
+   "0020,0000" : {
+      "Name" : "GenericGroupLength",
+      "Type" : "String",
+      "Value" : "134"
+   },
+   "0020,000d" : {
+      "Name" : "StudyInstanceUID",
+      "Type" : "String",
+      "Value" : "1.2.840.113619.2.21.848.246800003.0.1952805748.3"
+   },
+   "0020,000e" : {
+      "Name" : "SeriesInstanceUID",
+      "Type" : "String",
+      "Value" : "1.2.840.113619.2.21.24680000.700.0.1952805748.3.0"
+   },
+   "0020,0011" : {
+      "Name" : "SeriesNumber",
+      "Type" : "String",
+      "Value" : "0"
+   },
+   "0020,0013" : {
+      "Name" : "InstanceNumber",
+      "Type" : "String",
+      "Value" : "1"
+   },
+   "0028,0000" : {
+      "Name" : "GenericGroupLength",
+      "Type" : "String",
+      "Value" : "92"
+   },
+   "0028,0002" : {
+      "Name" : "SamplesPerPixel",
+      "Type" : "String",
+      "Value" : "3"
+   },
+   "0028,0004" : {
+      "Name" : "PhotometricInterpretation",
+      "Type" : "String",
+      "Value" : "RGB"
+   },
+   "0028,0006" : {
+      "Name" : "PlanarConfiguration",
+      "Type" : "String",
+      "Value" : "1"
+   },
+   "0028,0010" : {
+      "Name" : "Rows",
+      "Type" : "String",
+      "Value" : "480"
+   },
+   "0028,0011" : {
+      "Name" : "Columns",
+      "Type" : "String",
+      "Value" : "640"
+   },
+   "0028,0100" : {
+      "Name" : "BitsAllocated",
+      "Type" : "String",
+      "Value" : "8"
+   },
+   "0028,0101" : {
+      "Name" : "BitsStored",
+      "Type" : "String",
+      "Value" : "8"
+   },
+   "0028,0102" : {
+      "Name" : "HighBit",
+      "Type" : "String",
+      "Value" : "7"
+   },
+   "0028,0103" : {
+      "Name" : "PixelRepresentation",
+      "Type" : "String",
+      "Value" : "0"
+   },
+   "7fe0,0000" : {
+      "Name" : "ACR_NEMA_2C_VariablePixelDataGroupLength",
+      "Type" : "String",
+      "Value" : "921612"
+   },
+   "7fe0,0010" : {
+      "Name" : "PixelData",
+      "Type" : "Null",
+      "Value" : null
+   }
+}

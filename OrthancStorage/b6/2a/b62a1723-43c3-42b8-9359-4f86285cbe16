@@ -1,0 +1,1503 @@
+{
+   "0008,0005" : {
+      "Name" : "SpecificCharacterSet",
+      "Type" : "String",
+      "Value" : "ISO_IR 100"
+   },
+   "0008,0008" : {
+      "Name" : "ImageType",
+      "Type" : "String",
+      "Value" : "DERIVED\\PRIMARY\\AXIAL"
+   },
+   "0008,0012" : {
+      "Name" : "InstanceCreationDate",
+      "Type" : "String",
+      "Value" : "20040826"
+   },
+   "0008,0013" : {
+      "Name" : "InstanceCreationTime",
+      "Type" : "String",
+      "Value" : "185101"
+   },
+   "0008,0014" : {
+      "Name" : "InstanceCreatorUID",
+      "Type" : "String",
+      "Value" : "1.3.6.1.4.1.5962.3"
+   },
+   "0008,0016" : {
+      "Name" : "SOPClassUID",
+      "Type" : "String",
+      "Value" : "1.2.840.10008.5.1.4.1.1.2"
+   },
+   "0008,0018" : {
+      "Name" : "SOPInstanceUID",
+      "Type" : "String",
+      "Value" : "1.3.6.1.4.1.5962.1.1.1.1.2.20040826185059.5457"
+   },
+   "0008,0020" : {
+      "Name" : "StudyDate",
+      "Type" : "String",
+      "Value" : "20040826"
+   },
+   "0008,0021" : {
+      "Name" : "SeriesDate",
+      "Type" : "String",
+      "Value" : "19970430"
+   },
+   "0008,0022" : {
+      "Name" : "AcquisitionDate",
+      "Type" : "String",
+      "Value" : "19970430"
+   },
+   "0008,0023" : {
+      "Name" : "ContentDate",
+      "Type" : "String",
+      "Value" : "19970430"
+   },
+   "0008,0030" : {
+      "Name" : "StudyTime",
+      "Type" : "String",
+      "Value" : "185059"
+   },
+   "0008,0031" : {
+      "Name" : "SeriesTime",
+      "Type" : "String",
+      "Value" : "112749"
+   },
+   "0008,0032" : {
+      "Name" : "AcquisitionTime",
+      "Type" : "String",
+      "Value" : "112936"
+   },
+   "0008,0033" : {
+      "Name" : "ContentTime",
+      "Type" : "String",
+      "Value" : "113008"
+   },
+   "0008,0050" : {
+      "Name" : "AccessionNumber",
+      "Type" : "String",
+      "Value" : ""
+   },
+   "0008,0060" : {
+      "Name" : "Modality",
+      "Type" : "String",
+      "Value" : "CT"
+   },
+   "0008,0070" : {
+      "Name" : "Manufacturer",
+      "Type" : "String",
+      "Value" : "GE MEDICAL SYSTEMS"
+   },
+   "0008,0080" : {
+      "Name" : "InstitutionName",
+      "Type" : "String",
+      "Value" : "JFK IMAGING CENTER"
+   },
+   "0008,0090" : {
+      "Name" : "ReferringPhysicianName",
+      "Type" : "String",
+      "Value" : ""
+   },
+   "0008,0201" : {
+      "Name" : "TimezoneOffsetFromUTC",
+      "Type" : "String",
+      "Value" : "-0400"
+   },
+   "0008,1010" : {
+      "Name" : "StationName",
+      "Type" : "String",
+      "Value" : "CT01_OC0"
+   },
+   "0008,1030" : {
+      "Name" : "StudyDescription",
+      "Type" : "String",
+      "Value" : "e+1"
+   },
+   "0008,1090" : {
+      "Name" : "ManufacturerModelName",
+      "Type" : "String",
+      "Value" : "RHAPSODE"
+   },
+   "0008,2111" : {
+      "Name" : "DerivationDescription",
+      "Type" : "String",
+      "Value" : "JPEG 2000 reversible (lossless)"
+   },
+   "0008,2112" : {
+      "Name" : "SourceImageSequence",
+      "Type" : "Sequence",
+      "Value" : [
+         {
+            "0008,1150" : {
+               "Name" : "ReferencedSOPClassUID",
+               "Type" : "String",
+               "Value" : "1.2.840.10008.5.1.4.1.1.2"
+            },
+            "0008,1155" : {
+               "Name" : "ReferencedSOPInstanceUID",
+               "Type" : "String",
+               "Value" : "1.3.6.1.4.1.5962.1.1.1.1.1.20040826185059.5457"
+            },
+            "0040,a170" : {
+               "Name" : "PurposeOfReferenceCodeSequence",
+               "Type" : "Sequence",
+               "Value" : [
+                  {
+                     "0008,0100" : {
+                        "Name" : "CodeValue",
+                        "Type" : "String",
+                        "Value" : "121320"
+                     },
+                     "0008,0102" : {
+                        "Name" : "CodingSchemeDesignator",
+                        "Type" : "String",
+                        "Value" : "DCM"
+                     },
+                     "0008,0104" : {
+                        "Name" : "CodeMeaning",
+                        "Type" : "String",
+                        "Value" : "Uncompressed predecessor"
+                     }
+                  }
+               ]
+            }
+         }
+      ]
+   },
+   "0009,0010" : {
+      "Name" : "PrivateCreator",
+      "Type" : "String",
+      "Value" : "GEMS_IDEN_01"
+   },
+   "0009,1001" : {
+      "Name" : "FullFidelity",
+      "PrivateCreator" : "GEMS_IDEN_01",
+      "Type" : "String",
+      "Value" : "GE_GENESIS_FF"
+   },
+   "0009,1002" : {
+      "Name" : "SuiteId",
+      "PrivateCreator" : "GEMS_IDEN_01",
+      "Type" : "String",
+      "Value" : "CT01"
+   },
+   "0009,1004" : {
+      "Name" : "ProductId",
+      "PrivateCreator" : "GEMS_IDEN_01",
+      "Type" : "String",
+      "Value" : "HiSpeed CT/i"
+   },
+   "0009,1027" : {
+      "Name" : "ImageActualDate",
+      "PrivateCreator" : "GEMS_IDEN_01",
+      "Type" : "String",
+      "Value" : "862399669"
+   },
+   "0009,1030" : {
+      "Name" : "ServiceId",
+      "PrivateCreator" : "GEMS_IDEN_01",
+      "Type" : "String",
+      "Value" : ""
+   },
+   "0009,1031" : {
+      "Name" : "MobileLocationNumber",
+      "PrivateCreator" : "GEMS_IDEN_01",
+      "Type" : "String",
+      "Value" : ""
+   },
+   "0009,10e6" : {
+      "Name" : "GenesisVersionNow",
+      "PrivateCreator" : "GEMS_IDEN_01",
+      "Type" : "String",
+      "Value" : "05"
+   },
+   "0009,10e7" : {
+      "Name" : "ExamRecordChecksum",
+      "PrivateCreator" : "GEMS_IDEN_01",
+      "Type" : "String",
+      "Value" : "973283917"
+   },
+   "0009,10e9" : {
+      "Name" : "ActualSeriesDataTimeStamp",
+      "PrivateCreator" : "GEMS_IDEN_01",
+      "Type" : "String",
+      "Value" : "862399669"
+   },
+   "0010,0010" : {
+      "Name" : "PatientName",
+      "Type" : "String",
+      "Value" : "CompressedSamples^CT1"
+   },
+   "0010,0020" : {
+      "Name" : "PatientID",
+      "Type" : "String",
+      "Value" : "1CT1"
+   },
+   "0010,0030" : {
+      "Name" : "PatientBirthDate",
+      "Type" : "String",
+      "Value" : ""
+   },
+   "0010,0040" : {
+      "Name" : "PatientSex",
+      "Type" : "String",
+      "Value" : "O"
+   },
+   "0010,1010" : {
+      "Name" : "PatientAge",
+      "Type" : "String",
+      "Value" : "000Y"
+   },
+   "0010,1030" : {
+      "Name" : "PatientWeight",
+      "Type" : "String",
+      "Value" : "0.000000"
+   },
+   "0010,21b0" : {
+      "Name" : "AdditionalPatientHistory",
+      "Type" : "String",
+      "Value" : ""
+   },
+   "0011,0010" : {
+      "Name" : "PrivateCreator",
+      "Type" : "String",
+      "Value" : "GEMS_PATI_01"
+   },
+   "0011,1010" : {
+      "Name" : "PatientStatus",
+      "PrivateCreator" : "GEMS_PATI_01",
+      "Type" : "String",
+      "Value" : "0"
+   },
+   "0018,0010" : {
+      "Name" : "ContrastBolusAgent",
+      "Type" : "String",
+      "Value" : "ISOVUE300/100"
+   },
+   "0018,0022" : {
+      "Name" : "ScanOptions",
+      "Type" : "String",
+      "Value" : "HELICAL MODE"
+   },
+   "0018,0050" : {
+      "Name" : "SliceThickness",
+      "Type" : "String",
+      "Value" : "5.000000"
+   },
+   "0018,0060" : {
+      "Name" : "KVP",
+      "Type" : "String",
+      "Value" : "120"
+   },
+   "0018,0088" : {
+      "Name" : "SpacingBetweenSlices",
+      "Type" : "String",
+      "Value" : "5.000000"
+   },
+   "0018,0090" : {
+      "Name" : "DataCollectionDiameter",
+      "Type" : "String",
+      "Value" : "480.000000"
+   },
+   "0018,1020" : {
+      "Name" : "SoftwareVersions",
+      "Type" : "String",
+      "Value" : "05"
+   },
+   "0018,1040" : {
+      "Name" : "ContrastBolusRoute",
+      "Type" : "String",
+      "Value" : "IV"
+   },
+   "0018,1100" : {
+      "Name" : "ReconstructionDiameter",
+      "Type" : "String",
+      "Value" : "338.671600"
+   },
+   "0018,1110" : {
+      "Name" : "DistanceSourceToDetector",
+      "Type" : "String",
+      "Value" : "1099.3100585938"
+   },
+   "0018,1111" : {
+      "Name" : "DistanceSourceToPatient",
+      "Type" : "String",
+      "Value" : "630.000000"
+   },
+   "0018,1120" : {
+      "Name" : "GantryDetectorTilt",
+      "Type" : "String",
+      "Value" : "0.000000"
+   },
+   "0018,1130" : {
+      "Name" : "TableHeight",
+      "Type" : "String",
+      "Value" : "133.699997"
+   },
+   "0018,1150" : {
+      "Name" : "ExposureTime",
+      "Type" : "String",
+      "Value" : "1601"
+   },
+   "0018,1151" : {
+      "Name" : "XRayTubeCurrent",
+      "Type" : "String",
+      "Value" : "170"
+   },
+   "0018,1152" : {
+      "Name" : "Exposure",
+      "Type" : "String",
+      "Value" : "170"
+   },
+   "0018,1160" : {
+      "Name" : "FilterType",
+      "Type" : "String",
+      "Value" : "LARGE BOWTIE FIL"
+   },
+   "0018,1190" : {
+      "Name" : "FocalSpots",
+      "Type" : "String",
+      "Value" : "0.700000"
+   },
+   "0018,1210" : {
+      "Name" : "ConvolutionKernel",
+      "Type" : "String",
+      "Value" : "STANDARD"
+   },
+   "0018,5100" : {
+      "Name" : "PatientPosition",
+      "Type" : "String",
+      "Value" : "FFS"
+   },
+   "0019,0010" : {
+      "Name" : "PrivateCreator",
+      "Type" : "String",
+      "Value" : "GEMS_ACQU_01"
+   },
+   "0019,1002" : {
+      "Name" : "NumberOfCellsInDetector",
+      "PrivateCreator" : "GEMS_ACQU_01",
+      "Type" : "String",
+      "Value" : "912"
+   },
+   "0019,1003" : {
+      "Name" : "CellNumberAtTheta",
+      "PrivateCreator" : "GEMS_ACQU_01",
+      "Type" : "String",
+      "Value" : "373.750000"
+   },
+   "0019,1004" : {
+      "Name" : "CellSpacing",
+      "PrivateCreator" : "GEMS_ACQU_01",
+      "Type" : "String",
+      "Value" : "1.016600"
+   },
+   "0019,100f" : {
+      "Name" : "HorizontalFrameOfReference",
+      "PrivateCreator" : "GEMS_ACQU_01",
+      "Type" : "String",
+      "Value" : "955.799988"
+   },
+   "0019,1011" : {
+      "Name" : "SeriesContrast",
+      "PrivateCreator" : "GEMS_ACQU_01",
+      "Type" : "String",
+      "Value" : "2"
+   },
+   "0019,1013" : {
+      "Name" : "StartNumberForBaseline",
+      "PrivateCreator" : "GEMS_ACQU_01",
+      "Type" : "String",
+      "Value" : "0"
+   },
+   "0019,1014" : {
+      "Name" : "EndNumberForBaseline",
+      "PrivateCreator" : "GEMS_ACQU_01",
+      "Type" : "String",
+      "Value" : "0"
+   },
+   "0019,1015" : {
+      "Name" : "StartNumberForEnhancedScans",
+      "PrivateCreator" : "GEMS_ACQU_01",
+      "Type" : "String",
+      "Value" : "0"
+   },
+   "0019,1016" : {
+      "Name" : "EndNumberForEnhancedScans",
+      "PrivateCreator" : "GEMS_ACQU_01",
+      "Type" : "String",
+      "Value" : "0"
+   },
+   "0019,1017" : {
+      "Name" : "SeriesPlane",
+      "PrivateCreator" : "GEMS_ACQU_01",
+      "Type" : "String",
+      "Value" : "2"
+   },
+   "0019,1018" : {
+      "Name" : "FirstScanRAS",
+      "PrivateCreator" : "GEMS_ACQU_01",
+      "Type" : "String",
+      "Value" : "S"
+   },
+   "0019,1019" : {
+      "Name" : "FirstScanLocation",
+      "PrivateCreator" : "GEMS_ACQU_01",
+      "Type" : "String",
+      "Value" : "7.791870"
+   },
+   "0019,101a" : {
+      "Name" : "LastScanRAS",
+      "PrivateCreator" : "GEMS_ACQU_01",
+      "Type" : "String",
+      "Value" : "I"
+   },
+   "0019,101b" : {
+      "Name" : "LastScanLocation",
+      "PrivateCreator" : "GEMS_ACQU_01",
+      "Type" : "String",
+      "Value" : "-320.197968"
+   },
+   "0019,101e" : {
+      "Name" : "DisplayFieldOfView",
+      "PrivateCreator" : "GEMS_ACQU_01",
+      "Type" : "String",
+      "Value" : "0.000000"
+   },
+   "0019,1023" : {
+      "Name" : "TableSpeed",
+      "PrivateCreator" : "GEMS_ACQU_01",
+      "Type" : "String",
+      "Value" : "5.000000"
+   },
+   "0019,1024" : {
+      "Name" : "MidScanTime",
+      "PrivateCreator" : "GEMS_ACQU_01",
+      "Type" : "String",
+      "Value" : "17.784578"
+   },
+   "0019,1025" : {
+      "Name" : "MidScanFlag",
+      "PrivateCreator" : "GEMS_ACQU_01",
+      "Type" : "String",
+      "Value" : "1"
+   },
+   "0019,1026" : {
+      "Name" : "DegreesOfAzimuth",
+      "PrivateCreator" : "GEMS_ACQU_01",
+      "Type" : "String",
+      "Value" : "0"
+   },
+   "0019,1027" : {
+      "Name" : "GantryPeriod",
+      "PrivateCreator" : "GEMS_ACQU_01",
+      "Type" : "String",
+      "Value" : "1.000000"
+   },
+   "0019,102a" : {
+      "Name" : "XrayOnPosition",
+      "PrivateCreator" : "GEMS_ACQU_01",
+      "Type" : "String",
+      "Value" : "178.079926"
+   },
+   "0019,102b" : {
+      "Name" : "XrayOffPosition",
+      "PrivateCreator" : "GEMS_ACQU_01",
+      "Type" : "String",
+      "Value" : "3994.299316"
+   },
+   "0019,102c" : {
+      "Name" : "NumberOfTriggers",
+      "PrivateCreator" : "GEMS_ACQU_01",
+      "Type" : "String",
+      "Value" : "10431"
+   },
+   "0019,102e" : {
+      "Name" : "AngleOfFirstView",
+      "PrivateCreator" : "GEMS_ACQU_01",
+      "Type" : "String",
+      "Value" : "-718.079956"
+   },
+   "0019,102f" : {
+      "Name" : "TriggerFrequency",
+      "PrivateCreator" : "GEMS_ACQU_01",
+      "Type" : "String",
+      "Value" : "984.000000"
+   },
+   "0019,1039" : {
+      "Name" : "ScanFOVType",
+      "PrivateCreator" : "GEMS_ACQU_01",
+      "Type" : "String",
+      "Value" : "16"
+   },
+   "0019,1040" : {
+      "Name" : "StatReconFlag",
+      "PrivateCreator" : "GEMS_ACQU_01",
+      "Type" : "String",
+      "Value" : "0"
+   },
+   "0019,1041" : {
+      "Name" : "ComputeType",
+      "PrivateCreator" : "GEMS_ACQU_01",
+      "Type" : "String",
+      "Value" : "1"
+   },
+   "0019,1042" : {
+      "Name" : "SegmentNumber",
+      "PrivateCreator" : "GEMS_ACQU_01",
+      "Type" : "String",
+      "Value" : "0"
+   },
+   "0019,1043" : {
+      "Name" : "TotalSegmentsRequested",
+      "PrivateCreator" : "GEMS_ACQU_01",
+      "Type" : "String",
+      "Value" : "0"
+   },
+   "0019,1044" : {
+      "Name" : "InterscanDelay",
+      "PrivateCreator" : "GEMS_ACQU_01",
+      "Type" : "String",
+      "Value" : "1.000000"
+   },
+   "0019,1047" : {
+      "Name" : "ViewCompressionFactor",
+      "PrivateCreator" : "GEMS_ACQU_01",
+      "Type" : "String",
+      "Value" : "1"
+   },
+   "0019,104a" : {
+      "Name" : "TotalNumberOfRefChannels",
+      "PrivateCreator" : "GEMS_ACQU_01",
+      "Type" : "String",
+      "Value" : "6"
+   },
+   "0019,104b" : {
+      "Name" : "DataSizeForScanData",
+      "PrivateCreator" : "GEMS_ACQU_01",
+      "Type" : "String",
+      "Value" : "10431"
+   },
+   "0019,1052" : {
+      "Name" : "ReconPostProcessingFlag",
+      "PrivateCreator" : "GEMS_ACQU_01",
+      "Type" : "String",
+      "Value" : "1"
+   },
+   "0019,1057" : {
+      "Name" : "CTWaterNumber",
+      "PrivateCreator" : "GEMS_ACQU_01",
+      "Type" : "String",
+      "Value" : "-95"
+   },
+   "0019,1058" : {
+      "Name" : "CTBoneNumber",
+      "PrivateCreator" : "GEMS_ACQU_01",
+      "Type" : "String",
+      "Value" : "0"
+   },
+   "0019,105e" : {
+      "Name" : "NumberOfChannels1To512",
+      "PrivateCreator" : "GEMS_ACQU_01",
+      "Type" : "String",
+      "Value" : "763"
+   },
+   "0019,105f" : {
+      "Name" : "IncrementBetweenChannels",
+      "PrivateCreator" : "GEMS_ACQU_01",
+      "Type" : "String",
+      "Value" : "1"
+   },
+   "0019,1060" : {
+      "Name" : "StartingView",
+      "PrivateCreator" : "GEMS_ACQU_01",
+      "Type" : "String",
+      "Value" : "1969"
+   },
+   "0019,1061" : {
+      "Name" : "NumberOfViews",
+      "PrivateCreator" : "GEMS_ACQU_01",
+      "Type" : "String",
+      "Value" : "1576"
+   },
+   "0019,1062" : {
+      "Name" : "IncrementBetweenViews",
+      "PrivateCreator" : "GEMS_ACQU_01",
+      "Type" : "String",
+      "Value" : "1"
+   },
+   "0019,106a" : {
+      "Name" : "DependantOnNumberOfViewsProcessed",
+      "PrivateCreator" : "GEMS_ACQU_01",
+      "Type" : "String",
+      "Value" : "4"
+   },
+   "0019,106b" : {
+      "Name" : "FieldOfViewInDetectorCells",
+      "PrivateCreator" : "GEMS_ACQU_01",
+      "Type" : "String",
+      "Value" : "852"
+   },
+   "0019,1070" : {
+      "Name" : "ValueOfBackProjectionButton",
+      "PrivateCreator" : "GEMS_ACQU_01",
+      "Type" : "String",
+      "Value" : "1"
+   },
+   "0019,1071" : {
+      "Name" : "SetIfFatqEstimatesWereUsed",
+      "PrivateCreator" : "GEMS_ACQU_01",
+      "Type" : "String",
+      "Value" : "0"
+   },
+   "0019,1072" : {
+      "Name" : "ZChannelAvgOverViews",
+      "PrivateCreator" : "GEMS_ACQU_01",
+      "Type" : "String",
+      "Value" : "0.000000"
+   },
+   "0019,1073" : {
+      "Name" : "AvgOfLeftRefChannelsOverViews",
+      "PrivateCreator" : "GEMS_ACQU_01",
+      "Type" : "String",
+      "Value" : "0.000000"
+   },
+   "0019,1074" : {
+      "Name" : "MaxLeftChannelOverViews",
+      "PrivateCreator" : "GEMS_ACQU_01",
+      "Type" : "String",
+      "Value" : "0.000000"
+   },
+   "0019,1075" : {
+      "Name" : "AvgOfRightRefChannelsOverViews",
+      "PrivateCreator" : "GEMS_ACQU_01",
+      "Type" : "String",
+      "Value" : "0.000000"
+   },
+   "0019,1076" : {
+      "Name" : "MaxRightChannelOverViews",
+      "PrivateCreator" : "GEMS_ACQU_01",
+      "Type" : "String",
+      "Value" : "0.000000"
+   },
+   "0019,10da" : {
+      "Name" : "ReferenceChannelUsed",
+      "PrivateCreator" : "GEMS_ACQU_01",
+      "Type" : "String",
+      "Value" : "0"
+   },
+   "0019,10db" : {
+      "Name" : "BackProjectorCoefficient",
+      "PrivateCreator" : "GEMS_ACQU_01",
+      "Type" : "String",
+      "Value" : "0.000000"
+   },
+   "0019,10dc" : {
+      "Name" : "PrimarySpeedCorrectionUsed",
+      "PrivateCreator" : "GEMS_ACQU_01",
+      "Type" : "String",
+      "Value" : "1"
+   },
+   "0019,10dd" : {
+      "Name" : "OverrangeCorrectionUsed",
+      "PrivateCreator" : "GEMS_ACQU_01",
+      "Type" : "String",
+      "Value" : "1"
+   },
+   "0019,10de" : {
+      "Name" : "DynamicZAlphaValue",
+      "PrivateCreator" : "GEMS_ACQU_01",
+      "Type" : "String",
+      "Value" : "0.000000"
+   },
+   "0020,000d" : {
+      "Name" : "StudyInstanceUID",
+      "Type" : "String",
+      "Value" : "1.3.6.1.4.1.5962.1.2.1.20040826185059.5457"
+   },
+   "0020,000e" : {
+      "Name" : "SeriesInstanceUID",
+      "Type" : "String",
+      "Value" : "1.3.6.1.4.1.5962.1.3.1.1.20040826185059.5457"
+   },
+   "0020,0010" : {
+      "Name" : "StudyID",
+      "Type" : "String",
+      "Value" : "1CT1"
+   },
+   "0020,0011" : {
+      "Name" : "SeriesNumber",
+      "Type" : "String",
+      "Value" : "1"
+   },
+   "0020,0012" : {
+      "Name" : "AcquisitionNumber",
+      "Type" : "String",
+      "Value" : "2"
+   },
+   "0020,0013" : {
+      "Name" : "InstanceNumber",
+      "Type" : "String",
+      "Value" : "2"
+   },
+   "0020,0032" : {
+      "Name" : "ImagePositionPatient",
+      "Type" : "String",
+      "Value" : "-158.135803\\-179.035797\\-75.699997"
+   },
+   "0020,0037" : {
+      "Name" : "ImageOrientationPatient",
+      "Type" : "String",
+      "Value" : "1.000000\\0.000000\\0.000000\\0.000000\\1.000000\\0.000000"
+   },
+   "0020,0052" : {
+      "Name" : "FrameOfReferenceUID",
+      "Type" : "String",
+      "Value" : "1.3.6.1.4.1.5962.1.4.1.1.20040826185059.5457"
+   },
+   "0020,0060" : {
+      "Name" : "Laterality",
+      "Type" : "String",
+      "Value" : ""
+   },
+   "0020,1040" : {
+      "Name" : "PositionReferenceIndicator",
+      "Type" : "String",
+      "Value" : "SN"
+   },
+   "0020,1041" : {
+      "Name" : "SliceLocation",
+      "Type" : "String",
+      "Value" : "-77.2040634155"
+   },
+   "0020,4000" : {
+      "Name" : "ImageComments",
+      "Type" : "String",
+      "Value" : "JPEG 2000 reversible (lossless)"
+   },
+   "0021,0010" : {
+      "Name" : "PrivateCreator",
+      "Type" : "String",
+      "Value" : "GEMS_RELA_01"
+   },
+   "0021,1003" : {
+      "Name" : "SeriesFromWhichPrescribed",
+      "PrivateCreator" : "GEMS_RELA_01",
+      "Type" : "String",
+      "Value" : "2"
+   },
+   "0021,1005" : {
+      "Name" : "GenesisVersionNow",
+      "PrivateCreator" : "GEMS_RELA_01",
+      "Type" : "String",
+      "Value" : "05"
+   },
+   "0021,1007" : {
+      "Name" : "SeriesRecordChecksum",
+      "PrivateCreator" : "GEMS_RELA_01",
+      "Type" : "String",
+      "Value" : "1605775145"
+   },
+   "0021,1015" : {
+      "Name" : "Unknown",
+      "PrivateCreator" : "GEMS_RELA_01",
+      "Type" : "String",
+      "Value" : "24078"
+   },
+   "0021,1016" : {
+      "Name" : "Unknown",
+      "PrivateCreator" : "GEMS_RELA_01",
+      "Type" : "String",
+      "Value" : "2"
+   },
+   "0021,1018" : {
+      "Name" : "GenesisVersionNow",
+      "PrivateCreator" : "GEMS_RELA_01",
+      "Type" : "String",
+      "Value" : "05"
+   },
+   "0021,1019" : {
+      "Name" : "AcqReconRecordChecksum",
+      "PrivateCreator" : "GEMS_RELA_01",
+      "Type" : "String",
+      "Value" : "750675506"
+   },
+   "0021,1037" : {
+      "Name" : "ScreenFormat",
+      "PrivateCreator" : "GEMS_RELA_01",
+      "Type" : "String",
+      "Value" : "16"
+   },
+   "0021,104a" : {
+      "Name" : "AnatomicalReferenceForScout",
+      "PrivateCreator" : "GEMS_RELA_01",
+      "Type" : "String",
+      "Value" : ""
+   },
+   "0021,1090" : {
+      "Name" : "TubeFocalSpotPosition",
+      "PrivateCreator" : "GEMS_RELA_01",
+      "Type" : "String",
+      "Value" : "7400"
+   },
+   "0021,1091" : {
+      "Name" : "BiopsyPosition",
+      "PrivateCreator" : "GEMS_RELA_01",
+      "Type" : "String",
+      "Value" : "0"
+   },
+   "0021,1092" : {
+      "Name" : "BiopsyTLocation",
+      "PrivateCreator" : "GEMS_RELA_01",
+      "Type" : "String",
+      "Value" : "0"
+   },
+   "0021,1093" : {
+      "Name" : "BiopsyRefLocation",
+      "PrivateCreator" : "GEMS_RELA_01",
+      "Type" : "String",
+      "Value" : "0"
+   },
+   "0023,0010" : {
+      "Name" : "PrivateCreator",
+      "Type" : "String",
+      "Value" : "GEMS_STDY_01"
+   },
+   "0023,1070" : {
+      "Name" : "StartTimeSecsInFirstAxial",
+      "PrivateCreator" : "GEMS_STDY_01",
+      "Type" : "String",
+      "Value" : "862399761.11107898"
+   },
+   "0023,1074" : {
+      "Name" : "NumberOfUpdatesToHeader",
+      "PrivateCreator" : "GEMS_STDY_01",
+      "Type" : "String",
+      "Value" : "1"
+   },
+   "0023,107d" : {
+      "Name" : "IndicatesIfStudyHasCompleteInfo",
+      "PrivateCreator" : "GEMS_STDY_01",
+      "Type" : "String",
+      "Value" : "0"
+   },
+   "0025,0010" : {
+      "Name" : "PrivateCreator",
+      "Type" : "String",
+      "Value" : "GEMS_SERS_01"
+   },
+   "0025,1006" : {
+      "Name" : "LastPulseSequenceUsed",
+      "PrivateCreator" : "GEMS_SERS_01",
+      "Type" : "String",
+      "Value" : "0"
+   },
+   "0025,1007" : {
+      "Name" : "ImagesInSeries",
+      "PrivateCreator" : "GEMS_SERS_01",
+      "Type" : "String",
+      "Value" : "44"
+   },
+   "0025,1010" : {
+      "Name" : "LandmarkCounter",
+      "PrivateCreator" : "GEMS_SERS_01",
+      "Type" : "String",
+      "Value" : "0"
+   },
+   "0025,1011" : {
+      "Name" : "NumberOfAcquisitions",
+      "PrivateCreator" : "GEMS_SERS_01",
+      "Type" : "String",
+      "Value" : "0"
+   },
+   "0025,1017" : {
+      "Name" : "SeriesCompleteFlag",
+      "PrivateCreator" : "GEMS_SERS_01",
+      "Type" : "String",
+      "Value" : "0"
+   },
+   "0025,1018" : {
+      "Name" : "NumberOfImagesArchived",
+      "PrivateCreator" : "GEMS_SERS_01",
+      "Type" : "String",
+      "Value" : "0"
+   },
+   "0025,1019" : {
+      "Name" : "LastImageNumberUsed",
+      "PrivateCreator" : "GEMS_SERS_01",
+      "Type" : "String",
+      "Value" : "4"
+   },
+   "0025,101a" : {
+      "Name" : "PrimaryReceiverSuiteAndHost",
+      "PrivateCreator" : "GEMS_SERS_01",
+      "Type" : "String",
+      "Value" : ""
+   },
+   "0027,0010" : {
+      "Name" : "PrivateCreator",
+      "Type" : "String",
+      "Value" : "GEMS_IMAG_01"
+   },
+   "0027,1006" : {
+      "Name" : "ImageArchiveFlag",
+      "PrivateCreator" : "GEMS_IMAG_01",
+      "Type" : "String",
+      "Value" : "1"
+   },
+   "0027,1010" : {
+      "Name" : "ScoutType",
+      "PrivateCreator" : "GEMS_IMAG_01",
+      "Type" : "String",
+      "Value" : "0"
+   },
+   "0027,101c" : {
+      "Name" : "VmaMamp",
+      "PrivateCreator" : "GEMS_IMAG_01",
+      "Type" : "String",
+      "Value" : "150"
+   },
+   "0027,101d" : {
+      "Name" : "VmaPhase",
+      "PrivateCreator" : "GEMS_IMAG_01",
+      "Type" : "String",
+      "Value" : "1"
+   },
+   "0027,101e" : {
+      "Name" : "VmaMod",
+      "PrivateCreator" : "GEMS_IMAG_01",
+      "Type" : "String",
+      "Value" : "24"
+   },
+   "0027,101f" : {
+      "Name" : "VmaClip",
+      "PrivateCreator" : "GEMS_IMAG_01",
+      "Type" : "String",
+      "Value" : "129"
+   },
+   "0027,1020" : {
+      "Name" : "SmartScanOnOffFlag",
+      "PrivateCreator" : "GEMS_IMAG_01",
+      "Type" : "String",
+      "Value" : "1"
+   },
+   "0027,1030" : {
+      "Name" : "ForeignImageRevision",
+      "PrivateCreator" : "GEMS_IMAG_01",
+      "Type" : "String",
+      "Value" : ""
+   },
+   "0027,1035" : {
+      "Name" : "PlaneType",
+      "PrivateCreator" : "GEMS_IMAG_01",
+      "Type" : "String",
+      "Value" : "2"
+   },
+   "0027,1040" : {
+      "Name" : "RASLetterOfImageLocation",
+      "PrivateCreator" : "GEMS_IMAG_01",
+      "Type" : "String",
+      "Value" : "I"
+   },
+   "0027,1041" : {
+      "Name" : "ImageLocation",
+      "PrivateCreator" : "GEMS_IMAG_01",
+      "Type" : "String",
+      "Value" : "-77.2040634"
+   },
+   "0027,1042" : {
+      "Name" : "CenterRCoordOfPlaneImage",
+      "PrivateCreator" : "GEMS_IMAG_01",
+      "Type" : "String",
+      "Value" : "-11.1999998"
+   },
+   "0027,1043" : {
+      "Name" : "CenterACoordOfPlaneImage",
+      "PrivateCreator" : "GEMS_IMAG_01",
+      "Type" : "String",
+      "Value" : "9.69999981"
+   },
+   "0027,1044" : {
+      "Name" : "CenterSCoordOfPlaneImage",
+      "PrivateCreator" : "GEMS_IMAG_01",
+      "Type" : "String",
+      "Value" : "-75.6999969"
+   },
+   "0027,1045" : {
+      "Name" : "NormalRCoord",
+      "PrivateCreator" : "GEMS_IMAG_01",
+      "Type" : "String",
+      "Value" : "0"
+   },
+   "0027,1046" : {
+      "Name" : "NormalACoord",
+      "PrivateCreator" : "GEMS_IMAG_01",
+      "Type" : "String",
+      "Value" : "0"
+   },
+   "0027,1047" : {
+      "Name" : "NormalSCoord",
+      "PrivateCreator" : "GEMS_IMAG_01",
+      "Type" : "String",
+      "Value" : "-1"
+   },
+   "0027,1048" : {
+      "Name" : "RCoordOfTopRightCorner",
+      "PrivateCreator" : "GEMS_IMAG_01",
+      "Type" : "String",
+      "Value" : "-180.535797"
+   },
+   "0027,1049" : {
+      "Name" : "ACoordOfTopRightCorner",
+      "PrivateCreator" : "GEMS_IMAG_01",
+      "Type" : "String",
+      "Value" : "179.035797"
+   },
+   "0027,104a" : {
+      "Name" : "SCoordOfTopRightCorner",
+      "PrivateCreator" : "GEMS_IMAG_01",
+      "Type" : "String",
+      "Value" : "-75.6999969"
+   },
+   "0027,104b" : {
+      "Name" : "RCoordOfBottomRightCorner",
+      "PrivateCreator" : "GEMS_IMAG_01",
+      "Type" : "String",
+      "Value" : "-180.535797"
+   },
+   "0027,104c" : {
+      "Name" : "ACoordOfBottomRightCorner",
+      "PrivateCreator" : "GEMS_IMAG_01",
+      "Type" : "String",
+      "Value" : "-159.635803"
+   },
+   "0027,104d" : {
+      "Name" : "SCoordOfBottomRightCorner",
+      "PrivateCreator" : "GEMS_IMAG_01",
+      "Type" : "String",
+      "Value" : "-75.6999969"
+   },
+   "0027,1050" : {
+      "Name" : "TableStartLocation",
+      "PrivateCreator" : "GEMS_IMAG_01",
+      "Type" : "String",
+      "Value" : "-63.1999969"
+   },
+   "0027,1051" : {
+      "Name" : "TableEndLocation",
+      "PrivateCreator" : "GEMS_IMAG_01",
+      "Type" : "String",
+      "Value" : "-116.203049"
+   },
+   "0027,1052" : {
+      "Name" : "RASLetterForSideOfImage",
+      "PrivateCreator" : "GEMS_IMAG_01",
+      "Type" : "String",
+      "Value" : "L"
+   },
+   "0027,1053" : {
+      "Name" : "RASLetterForAnteriorPosterior",
+      "PrivateCreator" : "GEMS_IMAG_01",
+      "Type" : "String",
+      "Value" : "A"
+   },
+   "0027,1054" : {
+      "Name" : "RASLetterForScoutStartLoc",
+      "PrivateCreator" : "GEMS_IMAG_01",
+      "Type" : "String",
+      "Value" : "I"
+   },
+   "0027,1055" : {
+      "Name" : "RASLetterForScoutEndLoc",
+      "PrivateCreator" : "GEMS_IMAG_01",
+      "Type" : "String",
+      "Value" : "I"
+   },
+   "0028,0002" : {
+      "Name" : "SamplesPerPixel",
+      "Type" : "String",
+      "Value" : "1"
+   },
+   "0028,0004" : {
+      "Name" : "PhotometricInterpretation",
+      "Type" : "String",
+      "Value" : "MONOCHROME2"
+   },
+   "0028,0010" : {
+      "Name" : "Rows",
+      "Type" : "String",
+      "Value" : "512"
+   },
+   "0028,0011" : {
+      "Name" : "Columns",
+      "Type" : "String",
+      "Value" : "512"
+   },
+   "0028,0030" : {
+      "Name" : "PixelSpacing",
+      "Type" : "String",
+      "Value" : "0.661468\\0.661468"
+   },
+   "0028,0100" : {
+      "Name" : "BitsAllocated",
+      "Type" : "String",
+      "Value" : "16"
+   },
+   "0028,0101" : {
+      "Name" : "BitsStored",
+      "Type" : "String",
+      "Value" : "16"
+   },
+   "0028,0102" : {
+      "Name" : "HighBit",
+      "Type" : "String",
+      "Value" : "15"
+   },
+   "0028,0103" : {
+      "Name" : "PixelRepresentation",
+      "Type" : "String",
+      "Value" : "1"
+   },
+   "0028,0120" : {
+      "Name" : "PixelPaddingValue",
+      "Type" : "String",
+      "Value" : "-2000"
+   },
+   "0028,1052" : {
+      "Name" : "RescaleIntercept",
+      "Type" : "String",
+      "Value" : "-1024"
+   },
+   "0028,1053" : {
+      "Name" : "RescaleSlope",
+      "Type" : "String",
+      "Value" : "1"
+   },
+   "0028,2110" : {
+      "Name" : "LossyImageCompression",
+      "Type" : "String",
+      "Value" : "00"
+   },
+   "0029,0010" : {
+      "Name" : "PrivateCreator",
+      "Type" : "String",
+      "Value" : "GEMS_IMPS_01"
+   },
+   "0029,1004" : {
+      "Name" : "LowerRangeOfPixels",
+      "PrivateCreator" : "GEMS_IMPS_01",
+      "Type" : "String",
+      "Value" : "0"
+   },
+   "0029,1005" : {
+      "Name" : "LowerRangeOfPixels",
+      "PrivateCreator" : "GEMS_IMPS_01",
+      "Type" : "String",
+      "Value" : "0.000000"
+   },
+   "0029,1006" : {
+      "Name" : "LowerRangeOfPixels",
+      "PrivateCreator" : "GEMS_IMPS_01",
+      "Type" : "String",
+      "Value" : "0.000000"
+   },
+   "0029,1007" : {
+      "Name" : "LowerRangeOfPixels",
+      "PrivateCreator" : "GEMS_IMPS_01",
+      "Type" : "String",
+      "Value" : "87"
+   },
+   "0029,1008" : {
+      "Name" : "LowerRangeOfPixels",
+      "PrivateCreator" : "GEMS_IMPS_01",
+      "Type" : "String",
+      "Value" : ""
+   },
+   "0029,1009" : {
+      "Name" : "LowerRangeOfPixels",
+      "PrivateCreator" : "GEMS_IMPS_01",
+      "Type" : "String",
+      "Value" : ""
+   },
+   "0029,100a" : {
+      "Name" : "LowerRangeOfPixels",
+      "PrivateCreator" : "GEMS_IMPS_01",
+      "Type" : "String",
+      "Value" : "764"
+   },
+   "0029,1026" : {
+      "Name" : "VersionOfHeaderStructure",
+      "PrivateCreator" : "GEMS_IMPS_01",
+      "Type" : "String",
+      "Value" : "2"
+   },
+   "0029,1034" : {
+      "Name" : "AdvantageCompOverflow",
+      "PrivateCreator" : "GEMS_IMPS_01",
+      "Type" : "String",
+      "Value" : "0"
+   },
+   "0029,1035" : {
+      "Name" : "AdvantageCompUnderflow",
+      "PrivateCreator" : "GEMS_IMPS_01",
+      "Type" : "String",
+      "Value" : "0"
+   },
+   "0043,0010" : {
+      "Name" : "PrivateCreator",
+      "Type" : "String",
+      "Value" : "GEMS_PARM_01"
+   },
+   "0043,1010" : {
+      "Name" : "WindowValue",
+      "PrivateCreator" : "GEMS_PARM_01",
+      "Type" : "String",
+      "Value" : "400"
+   },
+   "0043,1011" : {
+      "Name" : "TotalInputViews",
+      "PrivateCreator" : "GEMS_PARM_01",
+      "Type" : "String",
+      "Value" : "10431"
+   },
+   "0043,1012" : {
+      "Name" : "XrayChain",
+      "PrivateCreator" : "GEMS_PARM_01",
+      "Type" : "String",
+      "Value" : "14"
+   },
+   "0043,1013" : {
+      "Name" : "ReconKernelParameters",
+      "PrivateCreator" : "GEMS_PARM_01",
+      "Type" : "String",
+      "Value" : "107"
+   },
+   "0043,1014" : {
+      "Name" : "CalibrationParameters",
+      "PrivateCreator" : "GEMS_PARM_01",
+      "Type" : "String",
+      "Value" : "4"
+   },
+   "0043,1015" : {
+      "Name" : "TotalOutputViews",
+      "PrivateCreator" : "GEMS_PARM_01",
+      "Type" : "String",
+      "Value" : "10431"
+   },
+   "0043,1016" : {
+      "Name" : "NumberOfOverranges",
+      "PrivateCreator" : "GEMS_PARM_01",
+      "Type" : "String",
+      "Value" : "0"
+   },
+   "0043,1017" : {
+      "Name" : "IBHImageScaleFactors",
+      "PrivateCreator" : "GEMS_PARM_01",
+      "Type" : "String",
+      "Value" : "0.095000"
+   },
+   "0043,1018" : {
+      "Name" : "BBHCoefficients",
+      "PrivateCreator" : "GEMS_PARM_01",
+      "Type" : "String",
+      "Value" : "0.085000\\1.102000\\0.095000"
+   },
+   "0043,1019" : {
+      "Name" : "NumberOfBBHChainsToBlend",
+      "PrivateCreator" : "GEMS_PARM_01",
+      "Type" : "String",
+      "Value" : "350"
+   },
+   "0043,101a" : {
+      "Name" : "StartingChannelNumber",
+      "PrivateCreator" : "GEMS_PARM_01",
+      "Type" : "String",
+      "Value" : "7"
+   },
+   "0043,101b" : {
+      "Name" : "PPScanParameters",
+      "PrivateCreator" : "GEMS_PARM_01",
+      "Type" : "String",
+      "Value" : "0"
+   },
+   "0043,101c" : {
+      "Name" : "GEImageIntegrity",
+      "PrivateCreator" : "GEMS_PARM_01",
+      "Type" : "String",
+      "Value" : "0"
+   },
+   "0043,101d" : {
+      "Name" : "LevelValue",
+      "PrivateCreator" : "GEMS_PARM_01",
+      "Type" : "String",
+      "Value" : "40"
+   },
+   "0043,101e" : {
+      "Name" : "DeltaStartTime",
+      "PrivateCreator" : "GEMS_PARM_01",
+      "Type" : "String",
+      "Value" : "2.000000"
+   },
+   "0043,101f" : {
+      "Name" : "MaxOverrangesInAView",
+      "PrivateCreator" : "GEMS_PARM_01",
+      "Type" : "String",
+      "Value" : "0"
+   },
+   "0043,1020" : {
+      "Name" : "AvgOverrangesAllViews",
+      "PrivateCreator" : "GEMS_PARM_01",
+      "Type" : "String",
+      "Value" : "0.000000"
+   },
+   "0043,1021" : {
+      "Name" : "CorrectedAfterglowTerms",
+      "PrivateCreator" : "GEMS_PARM_01",
+      "Type" : "String",
+      "Value" : "0"
+   },
+   "0043,1025" : {
+      "Name" : "ReferenceChannels",
+      "PrivateCreator" : "GEMS_PARM_01",
+      "Type" : "String",
+      "Value" : "1"
+   },
+   "0043,1026" : {
+      "Name" : "NoViewsRefChannelsBlocked",
+      "PrivateCreator" : "GEMS_PARM_01",
+      "Type" : "String",
+      "Value" : "0"
+   },
+   "0043,1027" : {
+      "Name" : "ScanPitchRatio",
+      "PrivateCreator" : "GEMS_PARM_01",
+      "Type" : "String",
+      "Value" : "/1.0:1"
+   },
+   "0043,1028" : {
+      "Name" : "UniqueImageIdentifier",
+      "PrivateCreator" : "GEMS_PARM_01",
+      "Type" : "Null",
+      "Value" : null
+   },
+   "0043,1029" : {
+      "Name" : "HistogramTables",
+      "PrivateCreator" : "GEMS_PARM_01",
+      "Type" : "Null",
+      "Value" : null
+   },
+   "0043,102a" : {
+      "Name" : "UserDefinedData",
+      "PrivateCreator" : "GEMS_PARM_01",
+      "Type" : "Null",
+      "Value" : null
+   },
+   "0043,102b" : {
+      "Name" : "PrivateScanOptions",
+      "PrivateCreator" : "GEMS_PARM_01",
+      "Type" : "String",
+      "Value" : "4"
+   },
+   "0043,1031" : {
+      "Name" : "RACoordOfTargetReconCentre",
+      "PrivateCreator" : "GEMS_PARM_01",
+      "Type" : "String",
+      "Value" : "-11.200000\\9.700000"
+   },
+   "0043,1040" : {
+      "Name" : "TriggerOnPosition",
+      "PrivateCreator" : "GEMS_PARM_01",
+      "Type" : "String",
+      "Value" : "178.079926"
+   },
+   "0043,1041" : {
+      "Name" : "DegreeOfRotation",
+      "PrivateCreator" : "GEMS_PARM_01",
+      "Type" : "String",
+      "Value" : "3816.21948"
+   },
+   "0043,1042" : {
+      "Name" : "DASTriggerSource",
+      "PrivateCreator" : "GEMS_PARM_01",
+      "Type" : "String",
+      "Value" : "0"
+   },
+   "0043,1043" : {
+      "Name" : "DASFpaGain",
+      "PrivateCreator" : "GEMS_PARM_01",
+      "Type" : "String",
+      "Value" : "0"
+   },
+   "0043,1044" : {
+      "Name" : "DASOutputSource",
+      "PrivateCreator" : "GEMS_PARM_01",
+      "Type" : "String",
+      "Value" : "1"
+   },
+   "0043,1045" : {
+      "Name" : "DASAdInput",
+      "PrivateCreator" : "GEMS_PARM_01",
+      "Type" : "String",
+      "Value" : "1"
+   },
+   "0043,1046" : {
+      "Name" : "DASCalMode",
+      "PrivateCreator" : "GEMS_PARM_01",
+      "Type" : "String",
+      "Value" : "3"
+   },
+   "0043,1047" : {
+      "Name" : "DASCalFrequency",
+      "PrivateCreator" : "GEMS_PARM_01",
+      "Type" : "String",
+      "Value" : "-1"
+   },
+   "0043,1048" : {
+      "Name" : "DASRegXm",
+      "PrivateCreator" : "GEMS_PARM_01",
+      "Type" : "String",
+      "Value" : "1"
+   },
+   "0043,1049" : {
+      "Name" : "DASAutoZero",
+      "PrivateCreator" : "GEMS_PARM_01",
+      "Type" : "String",
+      "Value" : "0"
+   },
+   "0043,104a" : {
+      "Name" : "StartingChannelOfView",
+      "PrivateCreator" : "GEMS_PARM_01",
+      "Type" : "String",
+      "Value" : "1"
+   },
+   "0043,104b" : {
+      "Name" : "DASXmPattern",
+      "PrivateCreator" : "GEMS_PARM_01",
+      "Type" : "String",
+      "Value" : "0"
+   },
+   "0043,104c" : {
+      "Name" : "TGGCTriggerMode",
+      "PrivateCreator" : "GEMS_PARM_01",
+      "Type" : "String",
+      "Value" : "0"
+   },
+   "0043,104d" : {
+      "Name" : "StartScanToXrayOnDelay",
+      "PrivateCreator" : "GEMS_PARM_01",
+      "Type" : "String",
+      "Value" : "0"
+   },
+   "0043,104e" : {
+      "Name" : "DurationOfXrayOn",
+      "PrivateCreator" : "GEMS_PARM_01",
+      "Type" : "String",
+      "Value" : "10.6006098"
+   },
+   "7fe0,0010" : {
+      "Name" : "PixelData",
+      "Type" : "Null",
+      "Value" : null
+   }
+}

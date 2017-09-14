@@ -1,0 +1,224 @@
+W0517 23:48:49.702251 main.cpp:1238] Orthanc version: 1.2.0
+W0517 23:48:49.702661 main.cpp:1095] Performance warning: Non-release build, runtime debug assertions are turned on
+W0517 23:48:49.706351 OrthancInitialization.cpp:125] Reading the configuration from: "./Configuration.json"
+W0517 23:48:49.708756 FromDcmtkBridge.cpp:189] Loading the embedded dictionaries
+W0517 23:48:49.728956 OrthancInitialization.cpp:488] Registering JPEG Lossless codecs
+W0517 23:48:49.728989 OrthancInitialization.cpp:493] Registering JPEG codecs
+W0517 23:48:49.752744 main.cpp:632] Loading plugin(s) from: /home/kastowo/towo.local/solusi247.local/Orthanc/OrthancPlugins/OrthancDicomWeb-0.3/libOrthancDicomWeb.so
+E0517 23:48:49.752792 PluginsManager.cpp:241] Inexistent path to plugins: /home/kastowo/towo.local/solusi247.local/Orthanc/OrthancPlugins/OrthancDicomWeb-0.3/libOrthancDicomWeb.so
+W0517 23:48:49.752801 main.cpp:632] Loading plugin(s) from: /home/kastowo/towo.local/solusi247.local/Orthanc/OrthancPlugins/OsimisViewer/libOsimisWebViewer.so
+E0517 23:48:49.752809 PluginsManager.cpp:241] Inexistent path to plugins: /home/kastowo/towo.local/solusi247.local/Orthanc/OrthancPlugins/OsimisViewer/libOsimisWebViewer.so
+W0517 23:48:49.752826 OrthancInitialization.cpp:986] SQLite index directory: "./OrthancStorage"
+W0517 23:48:49.753015 OrthancInitialization.cpp:1056] Storage directory: "./OrthancStorage"
+W0517 23:48:49.753692 HttpClient.cpp:685] HTTPS will use the CA certificates from this file: .
+W0517 23:48:49.754296 LuaContext.cpp:103] Lua says: Lua toolbox installed
+W0517 23:48:49.754344 ServerContext.cpp:181] Disk compression is disabled
+W0517 23:48:49.754359 ServerIndex.cpp:1402] No limit on the number of stored patients
+W0517 23:48:49.754390 ServerIndex.cpp:1419] No limit on the size of the storage area
+W0517 23:48:49.755729 main.cpp:822] DICOM server listening with AET ORTHANC_VM on port: 4242
+W0517 23:48:49.755825 MongooseServer.cpp:1027] HTTP compression is enabled
+W0517 23:48:49.756904 main.cpp:757] HTTP server listening on port: 8042
+W0517 23:48:49.756952 main.cpp:644] Orthanc has started
+W0517 23:48:49.757129 ServerScheduler.cpp:134] The server scheduler has started
+W0517 23:50:41.747048 main.cpp:702] Orthanc is stopping
+W0517 23:50:41.884856 main.cpp:762]     HTTP server has stopped
+W0517 23:50:42.903789 main.cpp:838]     DICOM server has stopped
+W0517 23:50:43.859424 main.cpp:1297] Orthanc has stopped
+W0517 23:50:50.723755 main.cpp:1238] Orthanc version: 1.2.0
+W0517 23:50:50.724039 main.cpp:1095] Performance warning: Non-release build, runtime debug assertions are turned on
+W0517 23:50:50.727729 OrthancInitialization.cpp:125] Reading the configuration from: "./Configuration.json"
+W0517 23:50:50.729943 FromDcmtkBridge.cpp:189] Loading the embedded dictionaries
+W0517 23:50:50.750408 OrthancInitialization.cpp:488] Registering JPEG Lossless codecs
+W0517 23:50:50.750440 OrthancInitialization.cpp:493] Registering JPEG codecs
+W0517 23:50:50.774488 main.cpp:632] Loading plugin(s) from: /home/kastowo/towo.local/solusi247.local/Orthanc/OrthancPlugins/OrthancDicomWeb-0.3/libOrthancDicomWeb.so
+E0517 23:50:50.774532 PluginsManager.cpp:241] Inexistent path to plugins: /home/kastowo/towo.local/solusi247.local/Orthanc/OrthancPlugins/OrthancDicomWeb-0.3/libOrthancDicomWeb.so
+W0517 23:50:50.774542 main.cpp:632] Loading plugin(s) from: /home/kastowo/towo.local/solusi247.local/Orthanc/OrthancPlugins/OsimisViewer/libOsimisWebViewer.so
+E0517 23:50:50.774550 PluginsManager.cpp:241] Inexistent path to plugins: /home/kastowo/towo.local/solusi247.local/Orthanc/OrthancPlugins/OsimisViewer/libOsimisWebViewer.so
+W0517 23:50:50.774567 OrthancInitialization.cpp:986] SQLite index directory: "./OrthancStorage"
+W0517 23:50:50.774755 OrthancInitialization.cpp:1056] Storage directory: "./OrthancStorage"
+W0517 23:50:50.775442 HttpClient.cpp:685] HTTPS will use the CA certificates from this file: .
+W0517 23:50:50.776095 LuaContext.cpp:103] Lua says: Lua toolbox installed
+W0517 23:50:50.776145 ServerContext.cpp:181] Disk compression is disabled
+W0517 23:50:50.776161 ServerIndex.cpp:1402] No limit on the number of stored patients
+W0517 23:50:50.776198 ServerIndex.cpp:1419] No limit on the size of the storage area
+W0517 23:50:50.776983 main.cpp:822] DICOM server listening with AET ORTHANC_VM on port: 4242
+W0517 23:50:50.777059 MongooseServer.cpp:1027] HTTP compression is enabled
+W0517 23:50:50.777816 main.cpp:757] HTTP server listening on port: 8042
+W0517 23:50:50.777847 main.cpp:644] Orthanc has started
+W0517 23:50:50.778367 ServerScheduler.cpp:134] The server scheduler has started
+W0517 23:59:25.272713 main.cpp:702] Orthanc is stopping
+W0517 23:59:25.331860 main.cpp:762]     HTTP server has stopped
+W0517 23:59:25.673786 main.cpp:838]     DICOM server has stopped
+W0517 23:59:26.154123 main.cpp:1297] Orthanc has stopped
+W0517 23:59:40.771027 main.cpp:1238] Orthanc version: 1.2.0
+W0517 23:59:40.771225 main.cpp:1095] Performance warning: Non-release build, runtime debug assertions are turned on
+W0517 23:59:40.773957 OrthancInitialization.cpp:125] Reading the configuration from: "./Configuration.json"
+E0517 23:59:40.774958 OrthancInitialization.cpp:693] Only alphanumeric and dash characters are allowed in the names of the modalities
+E0517 23:59:40.775065 main.cpp:1264] Uncaught exception, stopping now: [Bad file format] (code 15)
+W0517 23:59:40.775236 main.cpp:1297] Orthanc has stopped
+W0518 00:00:27.779193 main.cpp:1238] Orthanc version: 1.2.0
+W0518 00:00:27.779635 main.cpp:1095] Performance warning: Non-release build, runtime debug assertions are turned on
+W0518 00:00:27.783553 OrthancInitialization.cpp:125] Reading the configuration from: "./Configuration.json"
+E0518 00:00:27.784878 OrthancInitialization.cpp:693] Only alphanumeric and dash characters are allowed in the names of the modalities
+E0518 00:00:27.785004 main.cpp:1264] Uncaught exception, stopping now: [Bad file format] (code 15)
+W0518 00:00:27.785178 main.cpp:1297] Orthanc has stopped
+W0518 00:08:00.278306 main.cpp:1238] Orthanc version: 1.2.0
+W0518 00:08:00.278588 main.cpp:1095] Performance warning: Non-release build, runtime debug assertions are turned on
+W0518 00:08:00.282479 OrthancInitialization.cpp:125] Reading the configuration from: "./Configuration.json"
+E0518 00:08:00.283754 OrthancInitialization.cpp:693] Only alphanumeric and dash characters are allowed in the names of the modalities
+E0518 00:08:00.283863 main.cpp:1264] Uncaught exception, stopping now: [Bad file format] (code 15)
+W0518 00:08:00.284043 main.cpp:1297] Orthanc has stopped
+W0518 00:10:00.721855 main.cpp:1238] Orthanc version: 1.2.0
+W0518 00:10:00.722207 main.cpp:1095] Performance warning: Non-release build, runtime debug assertions are turned on
+W0518 00:10:00.726262 OrthancInitialization.cpp:125] Reading the configuration from: "./Configuration.json"
+W0518 00:10:00.728606 FromDcmtkBridge.cpp:189] Loading the embedded dictionaries
+W0518 00:10:00.749117 OrthancInitialization.cpp:488] Registering JPEG Lossless codecs
+W0518 00:10:00.749146 OrthancInitialization.cpp:493] Registering JPEG codecs
+W0518 00:10:00.773093 main.cpp:632] Loading plugin(s) from: /opt/Orchanc/OrthancPlugins/OrthancDicomWeb-0.3/libOrthancDicomWeb.so
+E0518 00:10:00.773148 PluginsManager.cpp:241] Inexistent path to plugins: /opt/Orchanc/OrthancPlugins/OrthancDicomWeb-0.3/libOrthancDicomWeb.so
+W0518 00:10:00.773158 main.cpp:632] Loading plugin(s) from: /opt/Orthanc/OrthancPlugins/OsimisViewer/libOsimisWebViewer.so
+W0518 00:10:00.784426 PluginsManager.cpp:268] Registering plugin 'osimis-web-viewer' (version 0.7.0.0-1733bf0)
+W0518 00:10:00.784476 PluginsManager.cpp:167] Initializing the Web viewer
+W0518 00:10:00.784787 PluginsManager.cpp:167] Using GDCM instead of the DICOM decoder that is built in Orthanc
+W0518 00:10:00.784969 OrthancInitialization.cpp:986] SQLite index directory: "./OrthancStorage"
+W0518 00:10:00.785167 OrthancInitialization.cpp:1056] Storage directory: "./OrthancStorage"
+W0518 00:10:00.785919 HttpClient.cpp:685] HTTPS will use the CA certificates from this file: .
+W0518 00:10:00.786526 LuaContext.cpp:103] Lua says: Lua toolbox installed
+W0518 00:10:00.786578 ServerContext.cpp:181] Disk compression is disabled
+W0518 00:10:00.786600 ServerIndex.cpp:1402] No limit on the number of stored patients
+W0518 00:10:00.786631 ServerIndex.cpp:1419] No limit on the size of the storage area
+W0518 00:10:00.787385 main.cpp:822] DICOM server listening with AET ORTHANC_VM on port: 4242
+W0518 00:10:00.787426 MongooseServer.cpp:1027] HTTP compression is enabled
+W0518 00:10:00.788198 main.cpp:757] HTTP server listening on port: 8042
+W0518 00:10:00.788231 main.cpp:644] Orthanc has started
+W0518 00:10:00.788708 ServerScheduler.cpp:134] The server scheduler has started
+W0518 00:11:21.398925 main.cpp:702] Orthanc is stopping
+W0518 00:11:21.409266 main.cpp:762]     HTTP server has stopped
+W0518 00:11:21.867501 main.cpp:838]     DICOM server has stopped
+W0518 00:11:22.855270 PluginsManager.cpp:218] Unregistering plugin 'osimis-web-viewer' (version 0.7.0.0-1733bf0)
+W0518 00:11:22.855425 PluginsManager.cpp:167] Finalizing the Web viewer
+W0518 00:11:22.870191 main.cpp:1297] Orthanc has stopped
+W0518 00:14:18.550571 main.cpp:1238] Orthanc version: 1.2.0
+W0518 00:14:18.551026 main.cpp:1095] Performance warning: Non-release build, runtime debug assertions are turned on
+W0518 00:14:18.554996 OrthancInitialization.cpp:125] Reading the configuration from: "./Configuration.json"
+W0518 00:14:18.557375 FromDcmtkBridge.cpp:189] Loading the embedded dictionaries
+W0518 00:14:18.577990 OrthancInitialization.cpp:488] Registering JPEG Lossless codecs
+W0518 00:14:18.578020 OrthancInitialization.cpp:493] Registering JPEG codecs
+W0518 00:14:18.601736 main.cpp:632] Loading plugin(s) from: /opt/Orchanc/OrthancPlugins/OrthancDicomWeb-0.3/libOrthancDicomWeb.so
+E0518 00:14:18.601776 PluginsManager.cpp:241] Inexistent path to plugins: /opt/Orchanc/OrthancPlugins/OrthancDicomWeb-0.3/libOrthancDicomWeb.so
+W0518 00:14:18.601786 main.cpp:632] Loading plugin(s) from: /opt/Orthanc/OrthancPlugins/OsimisViewer/libOsimisWebViewer.so
+W0518 00:14:18.613245 PluginsManager.cpp:268] Registering plugin 'osimis-web-viewer' (version 0.7.0.0-1733bf0)
+W0518 00:14:18.613295 PluginsManager.cpp:167] Initializing the Web viewer
+W0518 00:14:18.613584 PluginsManager.cpp:167] Using GDCM instead of the DICOM decoder that is built in Orthanc
+W0518 00:14:18.613769 OrthancInitialization.cpp:986] SQLite index directory: "./OrthancStorage"
+W0518 00:14:18.613968 OrthancInitialization.cpp:1056] Storage directory: "./OrthancStorage"
+W0518 00:14:18.614716 HttpClient.cpp:685] HTTPS will use the CA certificates from this file: .
+W0518 00:14:18.615445 LuaContext.cpp:103] Lua says: Lua toolbox installed
+W0518 00:14:18.615511 ServerContext.cpp:181] Disk compression is disabled
+W0518 00:14:18.615532 ServerIndex.cpp:1402] No limit on the number of stored patients
+W0518 00:14:18.615578 ServerIndex.cpp:1419] No limit on the size of the storage area
+W0518 00:14:18.616542 main.cpp:822] DICOM server listening with AET ORTHANC_VM on port: 4242
+W0518 00:14:18.616592 MongooseServer.cpp:1027] HTTP compression is enabled
+W0518 00:14:18.617074 main.cpp:757] HTTP server listening on port: 8042
+W0518 00:14:18.617089 main.cpp:644] Orthanc has started
+W0518 00:14:18.617548 ServerScheduler.cpp:134] The server scheduler has started
+E0518 00:14:35.027081 DicomUserConnection.cpp:166] DicomUserConnection: Failed to establish association
+0006:0317 Peer aborted Association (or never connected)
+0006:031c TCP Initialization Error: Connection refused
+E0518 00:14:35.027246 ServerScheduler.cpp:122] Job has failed (HTTP request: Store-SCU to peer "Orthanc103")
+E0518 00:14:39.829969 DicomUserConnection.cpp:166] DicomUserConnection: Failed to establish association
+0006:0317 Peer aborted Association (or never connected)
+0006:031c TCP Initialization Error: Connection refused
+E0518 00:14:39.830053 ServerScheduler.cpp:122] Job has failed (HTTP request: Store-SCU to peer "Orthanc104")
+E0518 00:34:49.773034 DicomUserConnection.cpp:166] DicomUserConnection: Failed to establish association
+0006:0317 Peer aborted Association (or never connected)
+0006:031c TCP Initialization Error: Connection refused
+E0518 00:34:49.773111 ServerScheduler.cpp:122] Job has failed (HTTP request: Store-SCU to peer "Orthanc103")
+E0518 00:34:54.791329 DicomUserConnection.cpp:166] DicomUserConnection: Failed to establish association
+0006:0317 Peer aborted Association (or never connected)
+0006:031c TCP Initialization Error: Connection refused
+E0518 00:34:54.791515 ServerScheduler.cpp:122] Job has failed (HTTP request: Store-SCU to peer "Orthanc104")
+E0518 00:40:11.124374 DicomUserConnection.cpp:166] DicomUserConnection: Failed to establish association
+0006:0317 Peer aborted Association (or never connected)
+0006:031c TCP Initialization Error: Connection refused
+E0518 00:40:11.124462 ServerScheduler.cpp:122] Job has failed (HTTP request: Store-SCU to peer "Orthanc103")
+E0518 00:44:01.165333 DicomUserConnection.cpp:166] DicomUserConnection: Failed to establish association
+0006:0317 Peer aborted Association (or never connected)
+0006:031c TCP Initialization Error: Connection refused
+E0518 00:44:01.165422 ServerScheduler.cpp:122] Job has failed (HTTP request: Store-SCU to peer "Orthanc103")
+E0518 00:53:02.289259 DicomUserConnection.cpp:166] DicomUserConnection: Failed to establish association
+0006:0317 Peer aborted Association (or never connected)
+0006:031c TCP Initialization Error: Connection refused
+E0518 00:53:02.289535 ServerScheduler.cpp:122] Job has failed (HTTP request: Store-SCU to peer "Orthanc103")
+E0518 00:57:40.525845 DicomUserConnection.cpp:166] DicomUserConnection: Failed to establish association
+0006:0317 Peer aborted Association (or never connected)
+0006:031c TCP Initialization Error: Connection refused
+E0518 00:57:40.525922 ServerScheduler.cpp:122] Job has failed (HTTP request: Store-SCU to peer "Orthanc103")
+W0518 01:08:22.529207 main.cpp:702] Orthanc is stopping
+W0518 01:08:22.539744 main.cpp:762]     HTTP server has stopped
+W0518 01:08:23.360560 main.cpp:838]     DICOM server has stopped
+W0518 01:08:23.902621 PluginsManager.cpp:218] Unregistering plugin 'osimis-web-viewer' (version 0.7.0.0-1733bf0)
+W0518 01:08:23.902810 PluginsManager.cpp:167] Finalizing the Web viewer
+W0518 01:08:23.920710 main.cpp:1297] Orthanc has stopped
+W0518 01:08:33.089199 main.cpp:1238] Orthanc version: 1.2.0
+W0518 01:08:33.089646 main.cpp:1095] Performance warning: Non-release build, runtime debug assertions are turned on
+W0518 01:08:33.093901 OrthancInitialization.cpp:125] Reading the configuration from: "./Configuration.json"
+W0518 01:08:33.096333 FromDcmtkBridge.cpp:189] Loading the embedded dictionaries
+W0518 01:08:33.117145 OrthancInitialization.cpp:488] Registering JPEG Lossless codecs
+W0518 01:08:33.117175 OrthancInitialization.cpp:493] Registering JPEG codecs
+W0518 01:08:33.141217 main.cpp:632] Loading plugin(s) from: /opt/Orchanc/OrthancPlugins/OrthancDicomWeb-0.3/libOrthancDicomWeb.so
+E0518 01:08:33.141262 PluginsManager.cpp:241] Inexistent path to plugins: /opt/Orchanc/OrthancPlugins/OrthancDicomWeb-0.3/libOrthancDicomWeb.so
+W0518 01:08:33.141272 main.cpp:632] Loading plugin(s) from: /opt/Orthanc/OrthancPlugins/OsimisViewer/libOsimisWebViewer.so
+W0518 01:08:33.152606 PluginsManager.cpp:268] Registering plugin 'osimis-web-viewer' (version 0.7.0.0-1733bf0)
+W0518 01:08:33.152656 PluginsManager.cpp:167] Initializing the Web viewer
+W0518 01:08:33.152934 PluginsManager.cpp:167] Using GDCM instead of the DICOM decoder that is built in Orthanc
+W0518 01:08:33.153115 OrthancInitialization.cpp:986] SQLite index directory: "./OrthancStorage"
+W0518 01:08:33.153317 OrthancInitialization.cpp:1056] Storage directory: "./OrthancStorage"
+W0518 01:08:33.154062 HttpClient.cpp:685] HTTPS will use the CA certificates from this file: .
+W0518 01:08:33.154999 LuaContext.cpp:103] Lua says: Lua toolbox installed
+W0518 01:08:33.155065 ServerContext.cpp:181] Disk compression is disabled
+W0518 01:08:33.155082 ServerIndex.cpp:1402] No limit on the number of stored patients
+W0518 01:08:33.155133 ServerIndex.cpp:1419] No limit on the size of the storage area
+W0518 01:08:33.155891 main.cpp:822] DICOM server listening with AET ORTHANC_VM on port: 4242
+W0518 01:08:33.155940 MongooseServer.cpp:1027] HTTP compression is enabled
+W0518 01:08:33.156449 main.cpp:757] HTTP server listening on port: 8042
+W0518 01:08:33.156463 main.cpp:644] Orthanc has started
+W0518 01:08:33.157052 ServerScheduler.cpp:134] The server scheduler has started
+E0518 01:08:42.413693 DicomUserConnection.cpp:166] DicomUserConnection: Unrecognized PDU type: 48
+E0518 01:08:42.413963 ServerScheduler.cpp:122] Job has failed (HTTP request: Store-SCU to peer "Orthanc103")
+E0518 01:08:46.261225 StoreScuCommand.cpp:86] Unable to forward to a modality in a Lua script (instance 07ba157e-99e77e64-8f161333-9b00b8ac-3009500d): DicomUserConnection: No acceptable presentation context for modality
+E0518 01:08:46.261306 ServerScheduler.cpp:122] Job has failed (HTTP request: Store-SCU to peer "Orthanc103")
+E0518 01:08:58.799400 DicomUserConnection.cpp:166] DicomUserConnection: Unrecognized PDU type: 48
+E0518 01:08:58.799540 ServerScheduler.cpp:122] Job has failed (HTTP request: Store-SCU to peer "Orthanc103")
+W0518 01:18:54.093792 main.cpp:702] Orthanc is stopping
+W0518 01:18:54.263089 main.cpp:762]     HTTP server has stopped
+W0518 01:18:55.125380 main.cpp:838]     DICOM server has stopped
+W0518 01:18:55.667912 PluginsManager.cpp:218] Unregistering plugin 'osimis-web-viewer' (version 0.7.0.0-1733bf0)
+W0518 01:18:55.668077 PluginsManager.cpp:167] Finalizing the Web viewer
+W0518 01:18:55.682373 main.cpp:1297] Orthanc has stopped
+W0521 22:07:01.303975 main.cpp:1238] Orthanc version: 1.2.0
+W0521 22:07:01.338685 main.cpp:1095] Performance warning: Non-release build, runtime debug assertions are turned on
+W0521 22:07:01.348283 OrthancInitialization.cpp:125] Reading the configuration from: "./Configuration.json"
+W0521 22:07:01.356237 FromDcmtkBridge.cpp:189] Loading the embedded dictionaries
+W0521 22:07:01.387849 OrthancInitialization.cpp:488] Registering JPEG Lossless codecs
+W0521 22:07:01.387880 OrthancInitialization.cpp:493] Registering JPEG codecs
+W0521 22:07:01.412472 main.cpp:632] Loading plugin(s) from: /opt/Orchanc/OrthancPlugins/OrthancDicomWeb-0.3/libOrthancDicomWeb.so
+E0521 22:07:01.412528 PluginsManager.cpp:241] Inexistent path to plugins: /opt/Orchanc/OrthancPlugins/OrthancDicomWeb-0.3/libOrthancDicomWeb.so
+W0521 22:07:01.412539 main.cpp:632] Loading plugin(s) from: /opt/Orthanc/OrthancPlugins/OsimisViewer/libOsimisWebViewer.so
+W0521 22:07:01.577469 PluginsManager.cpp:268] Registering plugin 'osimis-web-viewer' (version 0.7.0.0-1733bf0)
+W0521 22:07:01.577529 PluginsManager.cpp:167] Initializing the Web viewer
+W0521 22:07:01.577888 PluginsManager.cpp:167] Using GDCM instead of the DICOM decoder that is built in Orthanc
+W0521 22:07:01.578126 OrthancInitialization.cpp:986] SQLite index directory: "./OrthancStorage"
+W0521 22:07:01.579016 OrthancInitialization.cpp:1056] Storage directory: "./OrthancStorage"
+W0521 22:07:01.580572 HttpClient.cpp:685] HTTPS will use the CA certificates from this file: .
+W0521 22:07:01.581387 LuaContext.cpp:103] Lua says: Lua toolbox installed
+W0521 22:07:01.581452 ServerContext.cpp:181] Disk compression is disabled
+W0521 22:07:01.581474 ServerIndex.cpp:1402] No limit on the number of stored patients
+W0521 22:07:01.581515 ServerIndex.cpp:1419] No limit on the size of the storage area
+W0521 22:07:01.582489 main.cpp:822] DICOM server listening with AET ORTHANC_VM on port: 4242
+W0521 22:07:01.582535 MongooseServer.cpp:1027] HTTP compression is enabled
+W0521 22:07:01.583015 main.cpp:757] HTTP server listening on port: 8042
+W0521 22:07:01.583032 main.cpp:644] Orthanc has started
+W0521 22:07:01.583160 ServerScheduler.cpp:134] The server scheduler has started
+W0522 03:12:15.824381 OrthancInitialization.cpp:125] Reading the configuration from: "./Configuration.json"
+W0522 03:12:15.827017 main.cpp:676] A SIGHUP signal has been received, but is ignored as the configuration has not changed
